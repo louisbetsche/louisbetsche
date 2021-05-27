@@ -8,7 +8,7 @@ and [Foriox Solutions](https://www.foriox-solutions.net) and am currently workin
 
 ## Something about me
 
-I am Bruneian / Swiss and was born in Switzerland.
+I am Chinese / Swiss and was born in Switzerland.
 
 Trough my School-Time I have been actively coding and building my small Business (Betsche-Informatik)
 
