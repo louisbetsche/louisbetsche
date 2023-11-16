@@ -1,18 +1,17 @@
 # Louis Wei Shi Betsche
 
-## Ongoing Projects
+Hello and a warm welcome on my profile! My Name is Louis Betsche, after my graduation, I'm currently following my Dream-Path and am currently in an apprenticeship as an Information Technology Specialist at Emmi Group!
 
-Hello there and welcome to my profile, I own 2 Small Businesses [Betsche Informatik](https://www.betsche-informatik.ch)
-and [Foriox Solutions](https://www.foriox-solutions.net) and am currently working on an Opensource Pentesting OS
-[Tech-Lab-Project](https://github.com/Tech-LAB-Project/Tech-LAB).
+I am a great team player, get along very well with people and can integrate myself easily into an existing team. My goal is to constantly improve myself both professionally and personally.
+
+In my free time I like to wrench on my cars and provide IT support services.
+
 
 ## Something about me
 
 I am Chinese / Swiss and was born in Switzerland.
 
 Trough my School-Time I have been actively coding and building my small Business (Betsche-Informatik)
-
-I am in Apprenticeship as an Informations Technology Specialist for a small company here In Switzerland.
 
 ## Contact me
 
